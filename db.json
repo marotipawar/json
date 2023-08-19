@@ -1,1 +1,13 @@
-
+{
+  "employee":[
+    {
+      "id":1,
+      "firstName":"Maroti",
+      "lastName":"Pawar",
+      "address":"Pune",
+      "mobile":"9876543210",
+      "email":"maroti@example.com"
+    }
+    
+  ]
+}
